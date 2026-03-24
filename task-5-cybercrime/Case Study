@@ -1,0 +1,43 @@
+Case Study: UPI / Online Payment Fraud
+Prepared by: Amrita Singh | Reg. No.: 25BCE10970
+Course: CSE0001 – Digital Literacy | VIT Bhopal University
+Cybercrime Type: UPI / Online Payment Fraud
+
+The Fake Customer Care Refund Scam
+What Is This Crime?
+UPI (Unified Payments Interface) fraud is a form of financial cybercrime in which attackers manipulate victims into authorising money transfers from their own bank accounts — typically by impersonating customer care representatives, bank officials, or government agents.
+
+How It Typically Happens — Step by Step
+Scenario: A first-year engineering student in Pune (name withheld, 2024) lost ₹18,500 through the following sequence:
+
+The Hook: The student posted on a college Facebook group asking if anyone could help with a defective charger purchased online. Within minutes, a scammer posing as a customer care executive from the e-commerce platform contacted her on WhatsApp.
+Building Trust: The scammer used the correct company name, a professional-sounding script, and even quoted her recent order details (possibly obtained from public social media or data leaks), making the interaction feel legitimate.
+The False Urgency: The scammer said: "We will process your full refund immediately via UPI. Just accept the request on your phone."
+The Exploit: The scammer sent a "refund request" link that opened what appeared to be a UPI interface. The victim was asked to enter her UPI PIN to "accept" the refund — a fundamental misunderstanding the scammer deliberately created. In reality, a UPI PIN is only ever required to send money, never to receive it.
+The First Debit: ₹9,500 was immediately debited from her account.
+The Double Fraud: Panicked, she called the scammer back. The scammer calmly explained the "transaction failed" and asked her to try once more. She did — and lost a further ₹9,000.
+Aftermath: The student reported the fraud to cybercrime.gov.in and called Helpline 1930, but the fraudster's account had already been emptied and funds were not recovered.
+
+
+Who Is Usually Targeted?
+
+First-time UPI users unfamiliar with how the technology works
+College students and young adults (trusting, digitally active, but not always security-aware)
+Elderly individuals less familiar with digital payments
+Anyone who has recently posted publicly about a purchase, complaint, or financial transaction
+
+
+Consequences
+
+Financial loss — often irreversible once the fraudster withdraws funds
+Emotional distress — victims frequently describe feelings of shame, violation, and anxiety
+Low recovery rate — Indian cybercrime helplines have limited ability to freeze accounts once funds are withdrawn
+Ripple effects — victims may lose trust in digital payments entirely, setting back their financial independence
+
+
+Source / Basis
+This case study is based on a realistic composite of documented UPI fraud patterns reported by:
+
+National Cyber Crime Reporting Portal (cybercrime.gov.in)
+Reserve Bank of India (RBI) consumer awareness bulletins
+Press Trust of India (PTI) reports on student-targeted UPI scams (2023–2024)
