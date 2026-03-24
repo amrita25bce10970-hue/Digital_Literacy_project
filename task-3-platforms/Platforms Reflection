@@ -1,0 +1,49 @@
+Task 3 – Coding and Collaboration Platforms
+Part A – Coding Practice: HackerRank
+Platform Used: HackerRank (hackerrank.com)
+I created an account on HackerRank and completed the "Solve Me First" challenge under the Problem Solving section. This is HackerRank's introductory challenge: given two integers, write a function that returns their sum.
+What I did:
+
+Selected Python 3 as my language.
+Read the problem statement, which follows HackerRank's standard format: Input Format → Constraints → Output Format → Sample Input/Output.
+Wrote the solution, tested against the sample cases, and submitted.
+Result: All test cases passed. Score: 1/1.
+
+Key learning: Even a trivially simple challenge is useful because it teaches the structure of competitive programming problems. Understanding how to read input from stdin and format output correctly is a foundational skill for all subsequent challenges.
+
+Part B – Google Workspace: Digital Literacy Awareness Quiz (Google Forms)
+Platform Used: Google Forms (forms.google.com)
+I created a 5-question Digital Literacy Awareness Quiz that could genuinely be used to test batchmates' knowledge. The form is linked to a Google Sheet that automatically collects and organises all responses.
+Quiz Questions
+#Question
+1 Which of the following is an example of two-factor authentication (2FA)? Multiple Choice
+2 In your own words, what does "digital footprint" mean? Short Answer
+3 Which action best describes a phishing attack? Multiple Choice
+4 Which of the following passwords is the strongest? Multiple Choice 
+5 Name one platform where you should maintain a professional online presence, and explain why in one sentence. Short Answer
+Multiple Choice Options (Question 1)
+
+A) Entering your password twice
+B) Receiving an OTP on your phone after entering your password ✓
+C) Using a longer password
+D) Saving your password in the browser
+
+Multiple Choice Options (Question 3)
+
+A) A software update notification from your OS
+B) An email from your bank asking you to verify your account by clicking a link ✓
+C) A pop-up asking you to allow notifications
+D) A Google sign-in request from a trusted app
+
+Multiple Choice Options (Question 4)
+
+A) password123
+B) Amrita@2005
+C) V!t#Bh0p4l$25 ✓
+D) 12345678
+
+
+Reflection (150–200 words)
+For Part A, I used HackerRank to complete my first coding challenge. While the "Solve Me First" problem is simple by design, it introduced me to the structure and workflow of an online judge — a system I will use extensively throughout my CSE degree for practice, placement preparation, and potentially competitive programming. HackerRank's clean interface and instant feedback made it an ideal starting point.
+For Part B, I used Google Forms to build a Digital Literacy Awareness Quiz for my batchmates. What made this task genuinely interesting was thinking from the perspective of a quiz designer rather than a test-taker: I had to identify the most common misconceptions about digital literacy and frame questions that would expose them. The linked Google Sheet response view was particularly useful — it shows how Google Workspace tools connect with each other to create lightweight but powerful workflows, without needing any coding at all.
+Together, these two platforms represent two essential modes of working in a digital career: individual problem-solving (HackerRank) and collaborative, tool-assisted productivity (Google Workspace). Both will be part of my toolkit throughout my four years at VIT and beyond.
