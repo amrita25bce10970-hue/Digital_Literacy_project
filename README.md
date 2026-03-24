@@ -14,7 +14,9 @@ Task 1 – Digital Literacy Awareness Infographic
 Created a one-page infographic using Canva covering: what digital literacy is, safe internet practices, and professional online presence. Exported as PNG and saved in task-1-presentation/.
 
 Task 2 – Student Digital Portfolio
-Set up foundational profiles on GitHub, LinkedIn, and Kaggle. Created a GitHub profile README with name, branch, year, and learning goals. Updated LinkedIn Education section. Screenshots saved in task-2-portfolio/.
+Set up foundational profiles on GitHub, LinkedIn, and Kaggle. Created a GitHub profile README with name, branch, year, and learning goals.
+repository link: https://github.com/amrita25bce10970-hue/Amrita-Singh-VIT
+Updated LinkedIn Education section. Screenshots saved in task-2-portfolio/.
 
 Task 3 – Coding and Collaboration Platforms
 Completed the "Solve Me First" challenge on HackerRank (Python 3). Built a 5-question Digital Literacy Awareness Quiz on Google Forms with at least one MCQ and one short-answer question. Screenshots and links in task-3-platforms/.
